@@ -40,7 +40,7 @@ html_css_files = [
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "cmu-mfi", # Username
-    "github_repo": "hazelbot_doc", # Repo name
+    "github_repo": "testbed", # Repo name
     "github_version": "master", # Version
-    "conf_py_path": "/source/", # Path in the checkout to the docs root
+    "conf_py_path": "/doc/", # Path in the checkout to the docs root
 }
