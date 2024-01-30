@@ -6,7 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MFI Hazelbots Testbed'
+# project = 'MFI Hazelbots Testbed'
+project = 'MFI Testbed'
 copyright = 'CMU'
 author = 'Manufacturing Futures Institute'
 release = '1.0'
@@ -26,7 +27,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = 'files/hbl_logo.png'
+# html_logo = 'files/hbl_logo.png'
 html_favicon = 'files/white-logo.ico'
 html_static_path = ['_static']
 

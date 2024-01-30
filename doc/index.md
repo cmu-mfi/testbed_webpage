@@ -1,4 +1,6 @@
-# MFI Hazelbots Testbed
+<!-- # MFI Hazelbots Testbed -->
+
+# MFI Testbed
 
 The objective of the project is to emulate high-mix/low-volume continuous manufacturing. The envisioned testbed is a circular manufacturing ecosystem where parts are assembled, then disassembled such that no material is wasted and where 24/7 operational costs are low, providing potential to generate large datasets. An initial target application is the assembly and disassembly of LEGO® blocks as a fun and compelling technology demonstrator and driver. The expected testbed will grow and build upon a reusable and open-sourced codebase.
 
