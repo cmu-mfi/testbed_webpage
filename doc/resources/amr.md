@@ -1,8 +1,8 @@
 # Autonomous Mobile Robots
 
-![AMR](https://mrsd-project.herokuapp.com/images/dock_undock.gif)
-
 <a href="https://github.com/cmu-mfi/amr_testbed_v1.git" class="inline-button"><i class="fab fa-github"></i>amr_testbed_v1</a>
+
+![AMR](https://mrsd-project.herokuapp.com/images/dock_undock.gif)
 
 ```{contents}
 ```
