@@ -2,6 +2,8 @@
 
 ![AMR](https://mrsd-project.herokuapp.com/images/dock_undock.gif)
 
+<a href="https://github.com/cmu-mfi/amr_testbed_v1.git" class="inline-button"><i class="fab fa-github"></i>amr_testbed_v1</a>
+
 ```{contents}
 ```
 
@@ -10,8 +12,6 @@
 ## System Architecture
 
 ![AMR System Architecture](https://mrsd-project.herokuapp.com/images/robot_bringup/High%20Level.png)
-
-<a href="https://github.com/cmu-mfi/amr_onboard_infra" class="inline-button"><i class="fab fa-github"></i>amr_onboard_infra</a> <a href="https://github.com/cmu-mfi/amr_offboard_infra" class="inline-button"><i class="fab fa-github"></i>amr_offboard_infra</a>
 
 Below are relevant packages of the system:
 
@@ -27,8 +27,6 @@ Below are relevant packages of the system:
 *<TODO: describe packages to use for the simulation>*
 
 ## Integration with MES
-
-<a href="https://github.com/cmu-mfi/amr_mes_integration" class="inline-button"><i class="fab fa-github"></i>amr_mes_integration</a>
 
 - The [amr_fleet_offboard_infra_backend](https://github.com/cmu-mfi/amr_mes_integration/xxx) package receives the web request for the AMRs, and then communicates it over the ROS2 network.
 - The [offboard_comms](https://github.com/cmu-mfi/amr_mes_integration/xxx) package handles the translated web request and sends it over to the mission control
