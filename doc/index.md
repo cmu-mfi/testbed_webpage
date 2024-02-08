@@ -38,3 +38,15 @@ resources/plc.md
 integrated_demo.md
 loop_demo.md
 ```
+
+```{toctree}
+:caption: Utilities
+utilities.md
+```
+
+```{toctree}
+:caption: Tutorials
+
+tutorials/robot_arms.md
+tutorials/amr.md
+```
